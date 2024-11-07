@@ -1,0 +1,25 @@
+# Ignore temp files, build results, and others
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Asset metadata should only be ignored when the corresponding asset is also ignored
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.booproj
+*.svd
+
+# Unity3D generated files
+*.unity
+*.prefab
+*.asset
+
+# End of Unity-specific ignores
